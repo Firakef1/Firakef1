@@ -65,6 +65,4 @@ I’m always eager to collaborate on interesting projects, learn new things, and
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ---
