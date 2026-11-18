@@ -28,7 +28,7 @@ and tools for my university's competitive programming community.
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **Afri Herbal ERP** | ERP for a herbal products company, live at [afri-herbal.com](https://afri-herbal.com): sales, stock, production, cashier and salesman workflows, SMS alerts, plus a mobile app for staff | Django + Django Ninja, Next.js, Flutter, PostgreSQL, Docker, Caddy, Linux server |
-| **SraHub** | Job board for Ethiopian job seekers and employers | Go REST API, Next.js on Cloudflare, Flutter, PostgreSQL |
+| **[SraHub](https://srahub-web.firaolkef.workers.dev/)** | Job board for Ethiopian job seekers and employers. I led the frontend team | Go REST API, Next.js on Cloudflare, Flutter, PostgreSQL |
 | **[CP Tracker](https://cp-tracker-puce.vercel.app)** | Tracker for CSEC ASTU's competitive programming division. It pulls solves from Codeforces and LeetCode automatically, and scores consistency, streaks and contest attendance | FastAPI, SQLAlchemy, PostgreSQL, Next.js, Docker |
 | **[CSEC ASTU scoreboard](https://github.com/CSEC-ASTU/CSEC-ASTU-members-scoreboard-platform)** | Members' scoreboard platform for CSEC ASTU | TypeScript |
 | **[Settle](https://github.com/Firakef1/settle)** | Staff payout requests with receipt uploads, OCR and approvals (team project) | Go, Next.js, PostgreSQL |
