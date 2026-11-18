@@ -11,7 +11,7 @@
 ## 🌟 About me
 
 I build full products end to end: the database and API, the web app, the mobile app, and the server they run on.
-Most of my work is for real users in Ethiopia: a business ERP running in production, a job board, a school transport app,
+Most of my work is for real users in Ethiopia: a business ERP running in production, my university's college portals, a job board, a school transport app,
 and tools for my university's competitive programming community.
 
 - 🧠 A2SV (Africa to Silicon Valley) trainee: **300+ LeetCode problems** solved
@@ -28,6 +28,7 @@ and tools for my university's competitive programming community.
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **Afri Herbal ERP** | ERP for a herbal products company, live at [afri-herbal.com](https://afri-herbal.com): sales, stock, production, cashier and salesman workflows, SMS alerts, plus a mobile app for staff | Django + Django Ninja, Next.js, Flutter, PostgreSQL, Docker, Caddy, Linux server |
+| **[ASTU College Portals](https://colleges.astu.edu.et)** | Official portals for Adama Science and Technology University's colleges. I deployed and run them: five college sites and four Express + Prisma APIs under one domain on ASTU's server, with nginx, TLS, pm2, deploy scripts with one-command revert, and backups | nginx, Linux, Node.js, Express, Prisma, React |
 | **[SraHub](https://srahub-web.firaolkef.workers.dev/)** | Job board for Ethiopian job seekers and employers. I led the frontend team | Go REST API, Next.js on Cloudflare, Flutter, PostgreSQL |
 | **[CP Tracker](https://cp-tracker-puce.vercel.app)** | Tracker I built for the CSEC ASTU Competitive Programming Division, which I lead. It pulls solves from Codeforces and LeetCode automatically, and scores consistency, streaks and contest attendance | FastAPI, SQLAlchemy, PostgreSQL, Next.js, Docker |
 | **[CSEC ASTU scoreboard](https://github.com/CSEC-ASTU/CSEC-ASTU-members-scoreboard-platform)** | Members' scoreboard platform for CSEC ASTU | TypeScript |
@@ -57,20 +58,20 @@ and tools for my university's competitive programming community.
 
 **Languages:** Python · TypeScript · JavaScript · Go · Java · C++ · Dart · SQL · Bash
 
-**Backend:** Django & Django Ninja · FastAPI · Flask · Express · Go · REST APIs · WebSockets · JWT & Google OAuth · background workers & cron jobs
+**Backend:** Django & Django Ninja · FastAPI · Flask · Express · Prisma · Go · REST APIs · WebSockets · JWT & Google OAuth · background workers & cron jobs
 
 **Frontend & mobile:** React · Next.js · Vite · Tailwind CSS · Framer Motion · React Native (Expo) · Flutter
 
 **Data:** PostgreSQL · SQLAlchemy & Alembic · Django ORM · MongoDB · Redis · vector search / RAG
 
-**DevOps:** Docker & Docker Compose · GitHub Actions CI · Linux servers · Caddy · Vercel · Render · Cloudflare
+**DevOps:** Docker & Docker Compose · GitHub Actions CI · Linux servers · nginx · Caddy · pm2 · Vercel · Render · Cloudflare
 
 **Fundamentals:** data structures & algorithms (A2SV, Codeforces, LeetCode) · system design basics (load balancing, reverse proxies)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,go,java,cpp,dart,bash&perline=8" alt="Languages" /><br/>
   <img src="https://skillicons.dev/icons?i=django,fastapi,flask,express,nodejs,react,nextjs,tailwind,flutter&perline=9" alt="Frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,githubactions,linux,vercel,cloudflare,git,postman&perline=10" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,githubactions,linux,nginx,vercel,cloudflare,git,postman&perline=10" alt="Tools" />
 </p>
 
 ---
