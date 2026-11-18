@@ -15,7 +15,7 @@ Most of my work is for real users in Ethiopia: a business ERP running in product
 and tools for my university's competitive programming community.
 
 - 🧠 A2SV (Africa to Silicon Valley) trainee: **300+ LeetCode problems** solved
-- 🏫 Member of CSEC ASTU's competitive programming division, and I build its tools
+- 🏆 **Head of the Competitive Programming Division at CSEC ASTU**: I run the division's training, sheets and contests, and build the tools we use
 - 🐛 Been professionally breeding bugs and failing to exterminate them since forever 😅
 - 👟 I love walking because I can't run... kinda like my code: slow and full of errors 🥹
 
@@ -29,7 +29,7 @@ and tools for my university's competitive programming community.
 | --- | --- | --- |
 | **Afri Herbal ERP** | ERP for a herbal products company, live at [afri-herbal.com](https://afri-herbal.com): sales, stock, production, cashier and salesman workflows, SMS alerts, plus a mobile app for staff | Django + Django Ninja, Next.js, Flutter, PostgreSQL, Docker, Caddy, Linux server |
 | **[SraHub](https://srahub-web.firaolkef.workers.dev/)** | Job board for Ethiopian job seekers and employers. I led the frontend team | Go REST API, Next.js on Cloudflare, Flutter, PostgreSQL |
-| **[CP Tracker](https://cp-tracker-puce.vercel.app)** | Tracker for CSEC ASTU's competitive programming division. It pulls solves from Codeforces and LeetCode automatically, and scores consistency, streaks and contest attendance | FastAPI, SQLAlchemy, PostgreSQL, Next.js, Docker |
+| **[CP Tracker](https://cp-tracker-puce.vercel.app)** | Tracker I built for the CSEC ASTU Competitive Programming Division, which I lead. It pulls solves from Codeforces and LeetCode automatically, and scores consistency, streaks and contest attendance | FastAPI, SQLAlchemy, PostgreSQL, Next.js, Docker |
 | **[CSEC ASTU scoreboard](https://github.com/CSEC-ASTU/CSEC-ASTU-members-scoreboard-platform)** | Members' scoreboard platform for CSEC ASTU | TypeScript |
 | **[Settle](https://github.com/Firakef1/settle)** | Staff payout requests with receipt uploads, OCR and approvals (team project) | Go, Next.js, PostgreSQL |
 | **[Lijgo](https://lijgo-alpha.vercel.app)** | Website for a school transport app with live route tracking | Next.js, Tailwind |
@@ -49,7 +49,7 @@ and tools for my university's competitive programming community.
 ### Problem solving
 
 - **[A2SV Solved Questions](https://github.com/Firakef1/A2SV_Solved_Questions)**: 306 LeetCode problems (145 easy, 143 medium, 18 hard) in Python and Java
-- **[CSEC-CPD](https://github.com/Firakef1/CSEC-CPD)** and **[CSEC-CPD LeetCode](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions)**: Codeforces and LeetCode practice from the CSEC ASTU division
+- **[CSEC-CPD](https://github.com/Firakef1/CSEC-CPD)** and **[CSEC-CPD LeetCode](https://github.com/Firakef1/CSEC-CPD-Leetcode-Solutions)**: Codeforces and LeetCode practice from the CSEC ASTU CP division
 
 ---
 
